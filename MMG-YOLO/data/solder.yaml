@@ -1,0 +1,8 @@
+train: ./data/train/images
+val: ./data/val/images
+test: ./data/test/images
+
+nc: 7
+
+names: ['OK','GB', 'XH','DL','SLX','HC','WNL']
+
